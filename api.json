@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "id": "1234",
+      "nombre": "nicolas",
+      "apellido": "fandiño",
+      "telefono": 1234567,
+      "email": "jnfandio51@gmail.com"
+    },
+    {
+      "id": "12344",
+      "nombre": "nicol",
+      "apellido": "orjuela",
+      "telefono": 123456789,
+      "email": "nicol12@gmail.com"
+    }
+  ],
+  "categoria": [
+    {
+      "id": "1",
+      "nombre": "postre"
+    },
+    {
+      "id": "2",
+      "nombre": "bebidas"
+    }
+  ]
+}
